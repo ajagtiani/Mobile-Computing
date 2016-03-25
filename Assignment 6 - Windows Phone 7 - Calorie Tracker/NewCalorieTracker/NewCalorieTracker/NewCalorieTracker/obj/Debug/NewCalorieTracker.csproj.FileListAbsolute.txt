@@ -1,0 +1,50 @@
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\ApplicationIcon.png
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\Background.png
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.dll
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.pdb
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\AppManifest.xaml
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.xap
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\App.g.i.cs
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\MainPage.g.i.cs
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.g.resources
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.dll
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.pdb
+C:\Users\Abhishek Das\Downloads\NewCalorieTracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\XapCacheFile.xml
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\Bin\Debug\ApplicationIcon.png
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\Bin\Debug\Background.png
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.dll
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.pdb
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\Bin\Debug\AppManifest.xaml
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.xap
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\App.g.i.cs
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\MainPage.g.i.cs
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.g.resources
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.dll
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.pdb
+C:\Users\Siddharth\Desktop\Jaggu-tracker\NewCalorieTracker\obj\Debug\XapCacheFile.xml
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\Bin\Debug\ApplicationIcon.png
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\Bin\Debug\Background.png
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.dll
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.pdb
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\Bin\Debug\AppManifest.xaml
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.xap
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\obj\Debug\App.g.i.cs
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\obj\Debug\MainPage.g.i.cs
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.g.resources
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.dll
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.pdb
+C:\Users\axj4479\Downloads\Jaggu-tracker\Jaggu-tracker\NewCalorieTracker\obj\Debug\XapCacheFile.xml
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\ApplicationIcon.png
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\Background.png
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.dll
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.pdb
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\AppManifest.xaml
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\Bin\Debug\NewCalorieTracker.xap
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\App.g.i.cs
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\MainPage.g.i.cs
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.g.resources
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.dll
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\NewCalorieTracker.pdb
+C:\Users\axj4479\Downloads\Jaggu-Tracker\NewCalorieTracker\NewCalorieTracker\obj\Debug\XapCacheFile.xml

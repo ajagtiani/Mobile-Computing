@@ -1,0 +1,194 @@
+﻿/// Mobile Computing Assignment 6
+/// Group A14 - Aditya Jagtiani (axj4479@rit.edu), Himanshu Kale (hsk5260@rit.edu)
+/// Calorie Tracker for Windows Phone
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Animation;
+using System.Windows.Shapes;
+using Microsoft.Phone.Controls;
+
+namespace NewCalorieTracker
+{
+    public partial class MainPage : PhoneApplicationPage
+    {
+        int interimCalorieValue; //Variable for scatchpad text field calorie value
+        int finalCalorieValue; //Variable for final calorie value
+        
+        /// <summary>
+        /// Constructor to initialize variables
+        /// </summary>
+        public MainPage()
+        {
+            InitializeComponent();
+            interimCalorieValue = 0;
+            finalCalorieValue = 0;
+        }  
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 25 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e"></param>
+        private void Add25Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add25Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 50 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add50Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add50Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 100 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add100Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add100Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 200 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add200Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add200Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+        
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 300 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add300Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add300Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 400 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add400Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add400Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 500 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add500Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add500Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 600 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e"> this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add600Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add600Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 700 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add700Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add700Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 800 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add800Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add800Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 900 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add900Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add900Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user enters 1000 calories
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void Add1000Calories_Click(object sender, RoutedEventArgs e)
+        {
+            interimCalorieValue = interimCalorieValue + Convert.ToInt16(Add1000Calories.Content);
+            interimTextBox.Text = interimCalorieValue.ToString();
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user presses the 'Add' button
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+
+            finalCalorieValue += Convert.ToInt32(interimTextBox.Text); //Adding the interim calorie value to final calorie value. Works for keyboard input as well
+            finalCalorieTextBox.Text = (finalCalorieValue.ToString()); // Converting int to string for displaying the value in the final calorie value textbox
+            interimTextBox.Text = " "; //resetting the value in the interim text box to null
+            interimCalorieValue = 0; //resetting the value of the interim calorie value to 0
+        }
+
+        /// <summary>
+        /// This method brings about the actions to be performed when the user presses 'clear;
+        /// </summary>
+        /// <param name="sender">Control that the particular action is for</param>
+        /// <param name="e">this contains state information and event data associated with the event routed to by the action performed</param>
+        private void ClearButton_Click(object sender, RoutedEventArgs e)
+        {
+            interimTextBox.Text = " "; //resetting the value in the interim text box to null
+            interimCalorieValue = 0;
+        }
+        
+    }
+}
